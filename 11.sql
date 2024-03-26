@@ -1,0 +1,7 @@
+INSERT INTO product (PRO_ID, PRO_NAME, PRO_DESC, CAT_ID) VALUES (%s, %s, %s, %s)"
+val = [(1,"GTA V","DFJDJFDJFDJFDJFJF",2),
+       (2,"TSHIRT","DFDFJDFJDKFD",5),
+       (3,"ROG LAPTOP","DFNTTNTNTERND",4),
+       (4,"OATS","REURENTBTOTH",3),
+       (5,"HARRY POTTER","NBEMCTHTJTH",1)]
+
